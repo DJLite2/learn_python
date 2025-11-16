@@ -1,4 +1,12 @@
 # funksiyalar
+'''def bolinma(bulivchi, bolinma):
+    return round((bulivchi * bolinma) / 100.00, 2)
+
+
+print(bolinma(134.00, 12))
+print(bolinma(123.89, 12))'''
+
+
 # 2 variable scope
 
 '''from threading import local
